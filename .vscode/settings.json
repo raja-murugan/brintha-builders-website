@@ -1,0 +1,5 @@
+{
+    "editor.maxTokenizationLineLength": 500,
+    "search.maxResults": 2000000,
+    "editor.experimental.asyncTokenizationVerification": true
+}
