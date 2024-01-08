@@ -1,5 +1,6 @@
 {
     "editor.maxTokenizationLineLength": 500,
     "search.maxResults": 2000000,
-    "editor.experimental.asyncTokenizationVerification": true
+    "editor.experimental.asyncTokenizationVerification": true,
+    "liveServer.settings.port": 5501
 }
